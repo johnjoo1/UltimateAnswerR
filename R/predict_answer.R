@@ -1,0 +1,3 @@
+PredictAnswer <- function() {
+ 42 
+}
